@@ -1,0 +1,14 @@
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\IfDayOffTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\IfDayOffTheWeek.AssemblyInfoInputs.cache
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\IfDayOffTheWeek.AssemblyInfo.cs
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\IfDayOffTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\bin\Debug\net6.0\IfDayOffTheWeek.exe
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\bin\Debug\net6.0\IfDayOffTheWeek.deps.json
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\bin\Debug\net6.0\IfDayOffTheWeek.runtimeconfig.json
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\bin\Debug\net6.0\IfDayOffTheWeek.dll
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\bin\Debug\net6.0\IfDayOffTheWeek.pdb
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\IfDayOffTheWeek.dll
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\refint\IfDayOffTheWeek.dll
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\IfDayOffTheWeek.pdb
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\IfDayOffTheWeek.genruntimeconfig.cache
+C:\Users\vadam\source\repos\Week3IfAndSwitch\IfDayOffTheWeek\obj\Debug\net6.0\ref\IfDayOffTheWeek.dll
